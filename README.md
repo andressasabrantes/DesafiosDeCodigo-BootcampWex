@@ -26,7 +26,7 @@ A saída é uma string que informa a porcentagem ( taxaSucesso) da taxa de suces
 
 ## 3º Desafio: Tipos e Operadores Aritméticos:
 
-- **Descrição:**
+- Descrição:**
 Neste desafio de código, você será encarregado de criar um programa que avalia a prontidão de uma funcionalidade com base nos resultados de um conjunto de testes. O programa solicitará ao usuário que insira a quantidade de testes bem-sucedidos e a quantidade total de testes realizados. Em seguida, o programa calculará a taxa de sucesso dos testes e aplicará os seguintes critérios para determinar se a funcionalidade está pronta para ser lançada:
 
     * Se a taxa de sucesso for maior ou igual a 80%, o programa exibirá a mensagem "A funcionalidade esta pronta para lancamento."
